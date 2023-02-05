@@ -33,3 +33,22 @@ Code Example:
 
 2. [Algarve Resort Hotel Booking Analysis](https://colab.research.google.com/drive/1VFkqLWNs_zGite1jDMAWxvBab-QQDYjm)
 
+## Tableau
+- Connect and combine/ join datasets
+- Data formatting
+- Visualization
+- Calculated field
+- Interactive Dashboard
+
+Example:
+[Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/app/profile/frans.wensten.situmorang/viz/W10W11_Frans_Situmorang_Intermediate/Dashboard1)
+
+
+
+
+
+
+
+
+
+
