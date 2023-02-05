@@ -44,6 +44,8 @@ Example:
 [Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/app/profile/frans.wensten.situmorang/viz/W10W11_Frans_Situmorang_Intermediate/Dashboard1)
 
 
+## Project Based Analytics
+1. [Group B Final Project .pdf](https://github.com/fransws1/Frans_Situmorang_Data_Analytics_Portofolio/files/10611648/Group.B.Final.Project.pdf)
 
 
 
