@@ -29,7 +29,7 @@ Code Example:
 - Data Modelling by Logistic Regression 
 
 Code Example: 
-[Ecommerce Public Datasets](https://colab.research.google.com/drive/10Q6MeoxNc_6sKcqllBiZ_zD54qUWorMe#scrollTo=0hYFOW8fntbq) 
+1. [Ecommerce Public Datasets](https://colab.research.google.com/drive/10Q6MeoxNc_6sKcqllBiZ_zD54qUWorMe#scrollTo=0hYFOW8fntbq) 
 
-[Algarve Resort Hotel Booking Analysis](https://colab.research.google.com/drive/1VFkqLWNs_zGite1jDMAWxvBab-QQDYjm)
+2. [Algarve Resort Hotel Booking Analysis](https://colab.research.google.com/drive/1VFkqLWNs_zGite1jDMAWxvBab-QQDYjm)
 
