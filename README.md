@@ -45,7 +45,7 @@ Example:
 
 
 ## Project Based Analytics
-1. [Group B Final Project .pdf](https://github.com/fransws1/Frans_Situmorang_Data_Analytics_Portofolio/files/10611648/Group.B.Final.Project.pdf)
+1. [Group B Final Project](https://drive.google.com/file/d/1yS8d6yjbCKIwKJniFZA4oe7B6SiB7X1Z/view?usp=share_link)
 
 
 
